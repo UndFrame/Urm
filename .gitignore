@@ -1,0 +1,14 @@
+.idea
+/*/build
+.classpath
+.project
+out
+.gradle
+.vscode
+.settings
+*.js
+*.properties
+lib
+rp
+/build/
+/build/classes/java/main/
